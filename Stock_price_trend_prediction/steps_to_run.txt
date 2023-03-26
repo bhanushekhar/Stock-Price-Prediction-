@@ -1,0 +1,14 @@
+required installations
+1.You need to install Tensor flow to use LSTM model
+        follow the  3-7 steps given there
+        install it from here 'https://www.tensorflow.org/install/pip'
+       
+2.ypu need streamlit for ui
+    "pip install streamlit"
+3.u may install keras from 
+    "pip3 install keras" if not found from tensorflow better to install package using pip
+    then set venv by "python -m venv keras"
+4.for building models install scikit learn using
+    "pip install -U scikit-learn"
+after all the installations run "streamlit run stock.py"
+Thank u
